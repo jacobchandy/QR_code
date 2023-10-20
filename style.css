@@ -8,16 +8,15 @@ body {
 }
 .component {
   background-color: white;
-  border-radius: 8px;
+  border-radius: 20px;
   width: 320px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 10px;
 }
 .image img {
   margin: 10px;
-  margin-bottom: 0px;
-  padding-bottom: 0px;
   width: 300px;
-  border-radius: 8px;
+  border-radius: 15px;
 }
 .description {
   font-family: "Outfit", sans-serif;
